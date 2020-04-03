@@ -1,0 +1,17 @@
+---
+title: Mixtape - Dez 2014
+date: 2014-12-05 19:09:00 +00:00
+author: Alex Santos
+excerpt:
+layout: post
+permalink: /mixtape-dez-2014
+categories:
+  - Mixtapes
+tags:
+  - House
+---
+<p>Há mais de um ano que não gravava uma mixtape. Espero que vos saiba tão bem ouvi-la como me soube gravá-la. É um apanhado de temas de dança de 2014, um ano para mim atípico: foi o primeiro, desde que comecei no DJing com 15 anos, que não pus música uma única vez. Veremos como será 2015. Tracklist disponível na página do <a href="http://www.mixcloud.com/alexmsantos/mixtape-dec-2014/" target="_blank" rel="noopener">Mixcloud</a>.</p>
+
+<em>Atualização: A realidade é dinâmica. Ao contrário do que aqui escrevi, afinal este ano ainda vou pôr música pelo menos uma vez. Será na tarde do dia de Natal, quinta-feira, no <a href="https://www.facebook.com/NoonJacuzziTerraceClub?fref=ts" target="_blank" rel="noopener">Noon Jacuzzi &amp; Terrace Club</a> do Hotel Mar e Sol, em São Pedro de Moel. Não consegui resistir ao convite do <a href="https://www.facebook.com/profile.php?id=100004047124529" target="_blank" rel="noopener">Bruno</a> para assistir de camarote a um anoitecer perfeito rodeado de amigos, com música a meu gosto e numa das praias portuguesas mais bonitas. Ou seja: ainda não foi este ano que se livraram completamente de mim. Boas Festas para todos! </em>
+
+<iframe src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Falexmsantos%2Fmixtape-dec-2014%2F&amp;embed_uuid=f6f0cb0a-0ea5-4a15-9d32-363460d7b535&amp;light=1" width="100%" height="400" frameborder="0"></iframe>

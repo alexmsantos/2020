@@ -1,0 +1,42 @@
+---
+title: 'Reflexos da anarquia em rede: a omnisciência, omnipotência e omnipresença da Google'
+date: 2014-03-08 04:34:37+00:00
+author: Alex Santos
+excerpt: Apesar da retórica altruísta dos responsáveis da empresa, o papel dominante da Google na Internet tem suscitado preocupação
+layout: post
+permalink: /reflexos-da-anarquia-em-rede-a-omnisciencia-omnipotencia-e-omnipresenca-da-google
+categories:
+  - Artigos
+tags:
+  - Facebook
+  - Google
+  - Internet
+---
+John Perry Barlow referiu-se à propriedade intelectual como “<a href="http://www.businessweek.com/1996/19/b347472.htm" target="_blank">uma licença temporária para um monopólio se expressar</a>”. É irónico que alguém defenda a anarquia como forma de combater os monopólios que as democracias ajudaram a criar e não reconheça que a anarquia no ciberespaço está também a proteger um poderoso duopólio, formado pela Google e pelo Facebook, que detém <a href="http://www.businessinsider.com/google-and-facebook-own-mobile-ad-revenue-2013-8" target="_blank">uma quota de 69 por cento das receitas do mercado de publicidade móvel</a>. Só a Google usufrui de 85 por cento das receitas publicitárias globais provenientes dos motores de busca[^1].
+
+Poder-se-á argumentar que estas empresas não beneficiaram de uma proteção artificial do mercado para se desenvolverem. Seria, por si só, um argumento pouco crível, uma vez que a Google regista, em média, <a href="http://ificlaims.com/index.php?page=misc_top_50_2013" target="_blank">5 patentes por dia</a>, usufruindo das mesmas proteções que os ativistas da livre-informação tanto rejeitam.
+
+Aos que acusam a empresa de dominar o mercado, os responsáveis da Google escudam-se com a liberdade de escolha dos utilizadores, lembrando que os outros motores de busca concorrentes estão “à distância de um clique”. O problema é que o negócio da Google não são os motores de busca, os serviços _online_ ou a publicidade; na sua essência, “<a href="http://www.nytimes.com/2012/12/19/opinion/why-google-has-too-much-power-over-your-private-life.html?_r=1&" target="_blank">a Google é uma empresa de recolha de dados</a>”, sustenta Pamela Harbour, uma advogada que representa várias empresas do ramo tecnológico, entre as quais a Microsoft.
+
+A estratégia vencedora do negócio da Google e do Facebook é simples e assenta em duas variáveis interdependentes. A primeira passa por promover a ideia de gratuitidade e de informação livre, porque quanto mais complementos grátis à sua atividade estas empresas tiverem, mais pessoas consomem os seus produtos. Para estas empresas, “tudo o que acontece na Internet é um complemento à sua atividade principal. Como as pessoas passam mais tempo e fazem mais coisas _online_, elas veem mais anúncios e revelam mais informação sobre elas próprias”[^2]. Como é natural, qualquer empresa gostaria que os seus complementos fossem grátis: se os carros fossem gratuitos, as vendas de pneus ou de combustível disparariam. “A Google quer que a informação seja grátis porque, à medida que o custo da informação cai, todos nós passamos cada vez mais tempo a olhar para ecrãs de computador e os lucros da empresa sobem”[^3].
+
+A segunda variável passa por tornar o fluxo de informação cada vez mais rápido, porque quanto mais rápida é a navegação, mais páginas os utilizadores visitam. E quanto mais páginas os utilizadores visitam e hiperligações clicam, mais dividendos a Google e o Facebook obtêm: mais páginas e cliques representam, por um lado, mais anúncios publicitários que podem ser mostrados e, por outro, mais oportunidades para a recolha de dados sobre os utilizadores[^4]. Não é por acaso que <a href="http://www.businessweek.com/innovate/content/mar2009/id20090318_786470.htm" target="_blank">todas as opções de <i>design</i> das páginas da Google são tomadas em função da rapidez da experiência de uso</a>.
+
+A recolha de dados – que Clive Humby chamou “<a href="http://ana.blogs.com/maestros/2006/11/data_is_the_new.html" target="_blank">o novo petróleo</a>” –, para além de ser o grande sustento financeiro de empresas como a Google e o Facebook, também garante uma enorme vantagem competitiva face à concorrência, na medida em que as empresas com maiores bases de dados estão em melhores condições para saber mais detalhes sobre as preferências dos consumidores. Essa vantagem competitiva tem-se traduzido no poderoso monopólio que é a Google, que atualmente enfrenta alguns processos nos EUA e na Europa por <a href="http://www.publico.pt/tecnologia/noticia/comissario-da-concorrencia-quer-acordo-para-terminar-investigacao-ao-google-1607726" target="_blank">práticas anticoncorrenciais</a> e pelo <a href="http://www.publico.pt/tecnologia/noticia/franca-multa-google-em-150-mil-euros-por-nao-cumprir-leis-de-privacidade-1619093" target="_blank">incumprimento das leis de privacidade</a> de alguns países.
+
+Apesar da retórica altruísta dos responsáveis da empresa, o papel dominante da Google na Internet tem suscitado preocupação, sobretudo no que diz respeito à privacidade dos utilizadores. Harbour levanta uma dúvida pertinente: “<a href="http://www.nytimes.com/2012/12/19/opinion/why-google-has-too-much-power-over-your-private-life.html?_r=0" target="_blank">por enquanto, a Google usa os dados para vender anúncios direcionados, mas quem nos garante que a utilização dos dados será circunscrita a esse propósito?</a>”. Optar por sair da recolha de dados da Google é sempre uma hipótese, mas essa decisão implica abandonar o ecossistema Google, que inclui o Gmail e o sistema operativo para dispositivos móveis Android, já utilizados por milhões de pessoas em todo o mundo.
+
+Uma dúvida semelhante é colocada por Robert Darnton, um professor em Harvard que supervisiona o sistema bibliotecário da Universidade, a propósito do esforço da Google “para digitalizar todos os livros jamais impressos”[^5] e tornar o seu texto pesquisável <i>online</i>. Darnton diz que conceder a uma organização o monopólio do acesso à informação pode ser um risco demasiado elevado: “<a href="http://www.nybooks.com/articles/archives/2009/feb/12/google-the-future-of-books/?pagination=false" target="_blank">O que acontecerá se os atuais responsáveis venderem a empresa ou se aposentarem? O que acontecerá se a Google favorecer o lucro sobre o acesso?</a>”
+
+O domínio da Google está a suscitar muitas interrogações e desconfianças. Siva Vaidhyanathan, um professor de Estudos de _Media_ e Direito na Universidade da Virgínia, escreve acerca da influência crescente da Google:
+
+> A Google parece omnisciente, omnipotente e omnipresente. E também se afirma benevolente. [&#8230;] A mitologia da Web leva-nos a assumir que a Internet é um reino selvagem, incontrolável e, portanto, sem governo. Isto não poderia estar mais longe da verdade. Houve um vácuo de poder na Web não há muito tempo, mas nós convidámos a Google a preenchê-lo. Surpreendentemente, nós agora permitimos que a Google determine o que é importante, relevante e verdadeiro na Web e no mundo. Nós confiamos e acreditamos que a Google age no nosso melhor interesse.[^6]
+
+Parece evidente que se há uma empresa que tem interesse em manter a Internet com a atual configuração, essa empresa é claramente a Google, que tem sabido explorar como ninguém as oportunidades geradas pela anarquia da Rede. Os adeptos do livre-mercado argumentam que a regulamentação do setor obstaculizará a inovação. Porém, um estudo recente de Nathan Newman sustenta que o poder centralizado que hoje existe na Internet pode já estar a comprometer a inovação, favorecendo a estagnação do líder e desencorajando a entrada de potenciais candidatos ao setor. Newman propõe, por isso, a regulação do mercado como forma de restabelecer uma ameaça competitiva para a Google. Argumenta que, ao colocar em competição _players_ atuais e novos participantes, mas salvaguardando ao mesmo tempo a privacidade dos internautas, o mercado _online_ poder-se-á abrir a um tipo de inovação que servirá melhor a privacidade e os interesses económicos dos consumidores.
+
+[^1]: Newman N., <i>Search, Antitrust and the Economics of the Control of User Data</i>, p. 5.
+[^2]: Carr N., <i>Os Superficiais - O que a internet está a fazer aos nossos cérebros</i>, p. 200.
+[^3]: <i>Ibid.</i>, p. 201.
+[^4]: <i>Ibid.</i>, p. 196.
+[^5]: <i>Ibid.</i>, p. 201.
+[^6]: Vaidhyanathan S., <i>The Googlization of Everything (And Why We Should Worry)</i>, p. xi.
