@@ -16,4 +16,6 @@ tags:
 
 “Fomos buscar os maiores projetores que tínhamos para iluminar este caso”. “A investigação ainda não acabou”. Os bastidores de um trabalho de investigação dos jornalistas João Francisco Gomes e Sónia Simões, dividido em 5 partes, sobre os abusos sexuais na Igreja em Portugal, e que eu tive o privilégio de ajudar a compor.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/duN0vAxGDpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+	<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/duN0vAxGDpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
