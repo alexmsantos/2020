@@ -1,10 +1,10 @@
 ---
+layout: post
 title: Observador v2.1 - redesign e refactoring
-date: 2019-09-28 18:59:00 +00:00
+date: 2019-09-28 18:59:00 +0000
 author: Alex Santos
 excerpt:
-layout: post
-permalink: /observador-v2-1-redesign-e-refactoring
+#permalink: /observador-v2-1-redesign-e-refactoring
 categories:
   - Portefólio
 tags:
