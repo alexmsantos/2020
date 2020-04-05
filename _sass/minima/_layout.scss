@@ -111,6 +111,10 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0 0;
+  p {
+    font-size: 15px;
+    line-height: 22px;
+  }
 }
 
 .footer-heading {
@@ -125,7 +129,8 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
+  font-size: 15px;
+  line-height: 22px;
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
@@ -194,12 +199,17 @@
 .post-list {
   margin-left: 0;
   list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
 
   > li {
-    //margin-bottom: $spacing-unit;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px 0 rgba(60,64,67,.08), 0 1px 3px 1px rgba(60,64,67,.16);
+    transition: box-shadow 0.2s;
   }
-  a {
-    color: $text-color;
+  h3 {
+    margin: 0 0 6px;
   }
 }
 
@@ -210,7 +220,13 @@
 
 .post-link {
   display: block;
-  font-size: 22px;
+  color: $text-color;
+  padding: 10px;
+  font-size: 15px;
+  height: calc(100% - 20px);
+  &:hover {
+    box-shadow: 0 1px 3px 1px rgba(60,64,67,.2), 0 2px 8px 4px rgba(60,64,67,.1);
+  }
 }
 
 
@@ -260,6 +276,18 @@
 
       @include media-query($on-laptop) {
         @include relative-font-size(1.125);
+      }
+    }
+    .footnotes {
+        font-size: 13px;
+        line-height: 21px;
+      ol {
+        margin-left: 17px;
+      }
+      p {
+        font-size: 13px;
+        line-height: 21px;
+        margin-bottom: 10px;
       }
     }
   }
