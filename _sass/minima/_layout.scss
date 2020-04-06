@@ -200,8 +200,15 @@
   margin-left: 0;
   list-style: none;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  @media #{ $medium } {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+  }
+  @media #{ $large-max } {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 
   > li {
     border-radius: 3px;
